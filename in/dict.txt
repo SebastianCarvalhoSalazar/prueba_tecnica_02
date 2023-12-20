@@ -1,0 +1,5 @@
+EDA: Exploratory Data Analysis
+IMP: Imputed
+WL: With Labels
+TM: To Model
+P: Predict
