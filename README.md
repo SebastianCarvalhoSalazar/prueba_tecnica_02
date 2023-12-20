@@ -1,5 +1,3 @@
-# prueba_tecnica_02
-
 # Análisis de Datos en Salud - IPS VIH
 
 ## Descripción
